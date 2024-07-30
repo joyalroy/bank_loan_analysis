@@ -296,125 +296,125 @@ ORDER BY purpose
 
 ### Results
 
-#Total Loan Applications
+- Total Loan Applications
 
 ![image](https://github.com/user-attachments/assets/918bf5c3-3464-49f3-b595-9988f090f2bd)
 
-#MTD Loan Applications
+- MTD Loan Applications
 
 ![image](https://github.com/user-attachments/assets/0b64c808-1601-4f72-9a15-5df449be34dc)
 
-#PMTD Loan Applications
+- PMTD Loan Applications
 
 ![image](https://github.com/user-attachments/assets/e31a6ab9-2eda-4187-a7ce-aa0990c7220f)
 
-#Total Funded Amount
+- Total Funded Amount
 
 ![image](https://github.com/user-attachments/assets/6096474b-2341-46a1-b04d-112bdbd04679)
 
-#MTD Total Funded Amount
+- MTD Total Funded Amount
 
 ![image](https://github.com/user-attachments/assets/a1bd48ab-e66e-4d0b-b16a-69da772daa65)
 
-#PMTD Total Funded Amount
+- PMTD Total Funded Amount
 
 ![image](https://github.com/user-attachments/assets/d7152ead-30f1-40db-90e5-94db4807542f)
 
-#Total Amount Received
+- Total Amount Received
 
 ![image](https://github.com/user-attachments/assets/e9204844-e012-497d-9c62-08e060302d24)
 
-#MTD Total Amount Received
+- MTD Total Amount Received
 
 ![image](https://github.com/user-attachments/assets/853234b5-2e6a-4692-a988-dc2fcab327e7)
 
-#PMTD Total Amount Received
+- PMTD Total Amount Received
 
 ![image](https://github.com/user-attachments/assets/a92d9f8f-2ef3-4508-8c9d-661e28f90bdd)
 
-#Average Interest Rate
+- Average Interest Rate
 
 ![image](https://github.com/user-attachments/assets/8cebe659-5929-4d55-918f-1566047eac7d)
 
-#MTD Average Interest
+- MTD Average Interest
 
 ![image](https://github.com/user-attachments/assets/61b51992-e513-4c43-b398-670d98ad8db0)
 
-#PMTD Average Interest
+- PMTD Average Interest
 
 ![image](https://github.com/user-attachments/assets/32e0c74e-fd17-42c8-86f0-fd5794bb8238)
 
-#Avg DTI
+- Avg DTI
 
 ![image](https://github.com/user-attachments/assets/2a9dbba7-a78d-4ff7-84c7-0a21ecb14aac)
 
-#MTD Avg DTI
+- MTD Avg DTI
 
 ![image](https://github.com/user-attachments/assets/8b885880-bb37-4e5f-857b-330471f59b0e)
 
-#PMTD Avg DTI
+- PMTD Avg DTI
 
 ![image](https://github.com/user-attachments/assets/6125c09f-2e2c-468f-b0ec-1b476bc8542a)
 
-#Good Loan Percentage
+- Good Loan Percentage
 
 ![image](https://github.com/user-attachments/assets/e0e6294c-f85f-494d-bf07-2eb9e27b3c8c)
 
-#Good Loan Applications
+- Good Loan Applications
 
 ![image](https://github.com/user-attachments/assets/4ef18018-ad05-4921-903d-495b9162260b)
 
-#Good Loan Funded Amount
+- Good Loan Funded Amount
 
 ![image](https://github.com/user-attachments/assets/dadb2b91-12c9-4b93-8030-04e02a05aa43)
 
-#Good Loan Amount Received
+- Good Loan Amount Received
 
 ![image](https://github.com/user-attachments/assets/871bb6fb-846d-4e8f-9128-37f91d32b32e)
 
-#Bad Loan Percentage
+- Bad Loan Percentage
 
 ![image](https://github.com/user-attachments/assets/c9bc6494-d976-4d1b-b056-74bae663b463)
 
-#Bad Loan Applications
+- Bad Loan Applications
 
 ![image](https://github.com/user-attachments/assets/1b6b5e14-b6e7-40a5-bef7-f78d87251417)
 
-#Bad Loan Funded Amount
+- Bad Loan Funded Amount
 
 ![image](https://github.com/user-attachments/assets/52480420-e65f-486f-92d4-f970ea60452a)
 
-#Bad Loan Amount Received
+- Bad Loan Amount Received
 
 ![image](https://github.com/user-attachments/assets/91bfe831-7408-4a1a-9a16-85edb84a8e87)
 
-#LOAN STATUS
+- LOAN STATUS
 
 ![image](https://github.com/user-attachments/assets/d9f8345c-a23e-416c-9ced-77ff64cdca1e)
 
 ![image](https://github.com/user-attachments/assets/0cbe88e6-3e04-472b-8340-8500beb75747)
 
-#MONTH
+- MONTH
 
 ![image](https://github.com/user-attachments/assets/b4cbcbd7-a041-4672-8938-a68273d2af66)
 
-#STATE
+- STATE
 
 ![image](https://github.com/user-attachments/assets/9b89b88f-ee6e-47e7-9504-19034f090b39)
 
-#TERM
+- TERM
 
 ![image](https://github.com/user-attachments/assets/b46eeeb3-0e1f-4fec-bc07-db4c30282a5d)
 
-#EMPLOYEE LENGTH
+- EMPLOYEE LENGTH
 
 ![image](https://github.com/user-attachments/assets/fefeaf70-27a4-4c22-9fe6-db94417bb94e)
 
-#PURPOSE
+- PURPOSE
 
 ![image](https://github.com/user-attachments/assets/2e0e2d47-cfc1-4845-ba2a-e7d825c42eab)
 
-#HOME OWNERSHIP
+- HOME OWNERSHIP
 
 ![image](https://github.com/user-attachments/assets/6aadaade-8b61-4abe-9e10-c2d566518555)
 
