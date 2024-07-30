@@ -1,4 +1,4 @@
-# Bank Loan Project Analysis
+### Bank Loan Analysis
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ Bank Loan Data: The dataset contains information about bank loans including feat
 - `Interest Rate`: Interest Rate represents the annual cost of borrowing expressed as a percentage. It determines the loan's cost.
 - `Loan Amount`: Loan Amount is the total borrowed sum. It defines the principal amount.
 
-Dataset Source: [Uploading financial_loan.csv…]()
+Dataset Source: [financial_loan.csv](https://github.com/user-attachments/files/16432114/financial_loan.csv)
 
 
 File Format: CSV
